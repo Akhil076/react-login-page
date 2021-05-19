@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-login-page/static/css/main.a526ec5f.chunk.css",
-    "main.js": "/react-login-page/static/js/main.a8c033a1.chunk.js",
-    "main.js.map": "/react-login-page/static/js/main.a8c033a1.chunk.js.map",
+    "main.js": "/react-login-page/static/js/main.fa7a5200.chunk.js",
+    "main.js.map": "/react-login-page/static/js/main.fa7a5200.chunk.js.map",
     "runtime-main.js": "/react-login-page/static/js/runtime-main.2dc168e8.js",
     "runtime-main.js.map": "/react-login-page/static/js/runtime-main.2dc168e8.js.map",
     "static/js/2.29e766a5.chunk.js": "/react-login-page/static/js/2.29e766a5.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2dc168e8.js",
     "static/js/2.29e766a5.chunk.js",
     "static/css/main.a526ec5f.chunk.css",
-    "static/js/main.a8c033a1.chunk.js"
+    "static/js/main.fa7a5200.chunk.js"
   ]
 }
