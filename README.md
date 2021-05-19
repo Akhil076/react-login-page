@@ -7,7 +7,7 @@ Last Updated: 17 May 2021
 Code for the react app can be found in the src folder of source code folder.  
 
 Languages used: JSX, CSS and JavaScript  
-JSX is much like HTML only but it can be used to display dynamic content unlike HTML.  
+JSX is much like HTML only but it can be used alongside JS to display dynamic content unlike HTML.  
 
 Libraries used: React.js  
 
