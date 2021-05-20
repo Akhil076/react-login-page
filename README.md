@@ -15,6 +15,8 @@ Libraries used: React, ReactDOM.
 HTML/JSX tags used: div, img, h1, h3, form, label, input, button, br, textarea, a, p.  
 Most of these tags are given classnames and IDs and using these, styles are added using CSS. index.css is the file containing the styles.  
 
+React logo is used in the webpage. The logo is imported from logo.svg.  
+
 Functional components are used in this project. The components are named as App, Header, Navigator, Welcome, Loginform, Footer. The components are defined in the file App.js.  
 All other components except App are defined separately and they are called in the App component which is the main component.  
 
