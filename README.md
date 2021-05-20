@@ -11,7 +11,7 @@ The source code can be found at the src folder in source code folder.
 Languages used: JSX, CSS and JavaScript.  
 JSX is actually extension of JavaScript which allows us to write XML code along with JavaScript code.  
 
-Libraries used: React.  
+Libraries used: React, ReactDOM.  
 
 HTML/JSX tags used: div, img, h1, h3, form, label, input, button, br, textarea, a, p.  
 Most of these tags are given classnames and IDs and using these, styles are added using CSS. index.css is the file containing the styles.  
