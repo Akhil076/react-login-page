@@ -5,7 +5,6 @@ React App Login Page
 Made by: P Akhil Reddy  
 Roll no. CH20B076  
 Contact: ch20b076@smail.iitm.ac.in  
-Last updated: 17 May 2021.  
 The source code can be found at the src folder in source code folder.  
 
 Languages used: JSX, CSS and JavaScript.  
