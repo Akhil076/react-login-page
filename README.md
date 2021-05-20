@@ -16,9 +16,8 @@ Libraries used: React.
 HTML/JSX tags used: div, img, h1, h3, form, label, input, button, br, textarea, a, p.  
 Most of these tags are given classnames and IDs and using these, styles are added using CSS. index.css is the file containing the styles.  
 
-Functional components are used in this project. The components are named as App, Header, Navigator, Welcome, Loginform, Footer.  
+Functional components are used in this project. The components are named as App, Header, Navigator, Welcome, Loginform, Footer. The components are defined in the file App.js.  
 All other components except App are defined separately and they are called in the App component which is the main component.  
-The components are defined in the file App.js.  
 
 The main functional component is App which is exported from App.js and again imported in index.js.  
 index.js is the file where all necessary files are imported and the App component is rendered to an element in the document using the ReactDOM render function.  
